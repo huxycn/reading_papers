@@ -99,6 +99,7 @@
     - compared to adapters, no additional inference latency
 
     ![LoRA](imgs/main/lora.png)
+
     ![LoRA_formula](imgs/main/lora_formula.png)
 
 - ViT-Adapter: https://arxiv.org/abs/2205.08534: **Vision Transformer Adapter for Dense Predictions**. Zhe Chen et al. 2022.
