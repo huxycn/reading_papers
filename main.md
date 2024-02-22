@@ -94,6 +94,11 @@
 > 2. https://huggingface.co/blog/peft
 
 - LoRA: https://arxiv.org/abs/2106.09685: **LoRA: Low-Rank Adaptation of Large Language Models**. Edward J. Hu et al. 2021.
+    - Low-Rank Adaptation, or LoRA, which freezes the pretrained model weights and injects trainable rank decomposition matrices into each layer of the Transformer architecture, greatly reducing the number of trainable parameters for downstream tasks.
+    - compared to adapters, no additional inference latency
+    ![LoRA](imgs/main/lora.png)
+    ![LoRA_formula](imgs/main/lora_formula.png)
+    - code: https://github.com/microsoft/LoRA
 - ViT-Adapter: https://arxiv.org/abs/2205.08534: **Vision Transformer Adapter for Dense Predictions**. Zhe Chen et al. 2022.
 
 ### Multi-Modal
