@@ -8,7 +8,7 @@
 > 3. ViT: https://b23.tv/W4UdTX6
 > 4. CLIP: https://b23.tv/0rTiChh
 
-- Transformer: https://arxiv.org/abs/1706.03762: **Attention Is All You Need**. Ashish Vaswani et al. 2017.
+- Transformer: https://arxiv.org/abs/1706.03762: **Attention Is All You Need**. Ashish Vaswani et al. 2017. [pdf](pdfs/Transformer_Ashish_Vaswani_et_al_1706.03762.pdf)
 - DETR: https://arxiv.org/abs/2005.12872: **End-to-End Object Detection with Transformers**. Nicolas Carion et al. 2020.
 - ViT: https://arxiv.org/abs/2010.11929: **An Image is Worth 16x16 Words: Transformers for Image Recognition at  Scale**. Alexey Dosovitskiy et al. 2020.
 - CLIP: https://arxiv.org/abs/2103.00020: **Learning Transferable Visual Models From Natural Language Supervision**. Alec Radford et al. 2021.
