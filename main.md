@@ -3,37 +3,22 @@
 ## Pioneering Work
 
 > Reference:
-> 1. Transformer: https://b23.tv/IHQ3NBE
+> 1. 
 > 2. DETR: https://b23.tv/Qy47ExG
-> 3. ViT: https://b23.tv/W4UdTX6
-> 4. CLIP: https://b23.tv/0rTiChh
+> 3. 
+> 4. 
 
-- Transformer: **Attention Is All You Need**. Ashish Vaswani et al. 2017. [arxiv](https://arxiv.org/abs/1706.03762) [pdf](pdfs/Transformer_Ashish_Vaswani_et_al_1706.03762.pdf)
-- DETR: **End-to-End Object Detection with Transformers**. Nicolas Carion et al. 2020. [arxiv](https://arxiv.org/abs/2005.12872) [pdf](pdfs/DETR_Nicolas_Carion_et_al_2005.12872.pdf)
-- ViT: **An Image is Worth 16x16 Words: Transformers for Image Recognition at  Scale**. Alexey Dosovitskiy et al. 2020. [arxiv](https://arxiv.org/abs/2010.11929) [pdf](pdfs/ViT_Alexey_Dosovitskiy_et_al_2010.11929.pdf)
-- CLIP: **Learning Transferable Visual Models From Natural Language Supervision**. Alec Radford et al. 2021. [arxiv](https://arxiv.org/abs/2103.00020) [pdf](pdfs/CLIP_Alec_Radford_et_al_2103.00020.pdf)
+
+
+
 
 ## Downstream Task
 
 ### Backbone
 
-> Reference:
-> 1. Swin-Transformer: https://b23.tv/buruBr8
-
-- Swin-Transformer: **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**. Ze Liu et al. 2021. [arxiv](https://arxiv.org/abs/2103.14030) [pdf](pdfs/Swin-Transformer_Ze_Liu_et_al_2103.14030.pdf)
 
 ### Object Detection
 
-> Reference:
-> 1. detrex: https://github.com/IDEA-Research/detrex
-
-- Deformable-DETR: **Deformable DETR: Deformable Transformers for End-to-End Object Detection**. Xizhou Zhu et al. 2020. [arxiv](https://arxiv.org/abs/2010.04159) [pdf](pdfs/Deformable-DETR_Xizhou_Zhu_et_al_2010.04159.pdf)
-- Conditional-DETR: **Conditional DETR for Fast Training Convergence**. Depu Meng et al. 2021. [arxiv](https://arxiv.org/abs/2108.06152) [pdf](pdfs/Conditional-DETR_Depu_Meng_et_al_2108.06152.pdf)
-- Anchor-DETR: **Anchor DETR: Query Design for Transformer-Based Object Detection**. Yingming Wang et al. 2021. [arxiv](https://arxiv.org/abs/2109.07107) [pdf](pdfs/Anchor-DETR_Yingming_Wang_et_al_2109.07107.pdf)
-- DAB-DETR: **DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR**. Shilong Liu et al. 2022. [arxiv](https://arxiv.org/abs/2201.12329) [pdf](pdfs/DAB-DETR_Shilong_Liu_et_al_2201.12329.pdf)
-- DN-DETR: **DN-DETR: Accelerate DETR Training by Introducing Query DeNoising**. Feng Li et al. 2022. [arxiv](https://arxiv.org/abs/2203.01305) [pdf](pdfs/DN-DETR_Feng_Li_et_al_2203.01305.pdf)
-- DINO: **DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object  Detection**. Hao Zhang et al. 2022. [arxiv](https://arxiv.org/abs/2203.03605) [pdf](pdfs/DINO_Hao_Zhang_et_al_2203.03605.pdf)
-- Co-DETR: **DETRs with Collaborative Hybrid Assignments Training**. Zhuofan Zong et al. 2022. [arxiv](https://arxiv.org/abs/2211.12860) [pdf](pdfs/Co-DETR_Zhuofan_Zong_et_al_2211.12860.pdf)
 
 ### Image Segmentation
 
