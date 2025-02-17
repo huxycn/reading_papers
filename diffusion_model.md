@@ -17,6 +17,7 @@
   - https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php #Diffusion Model 原理剖析
   - https://kexue.fm/archives/9119
   - https://zhuanlan.zhihu.com/p/565901160
+  - https://arxiv.org/pdf/2208.11970
 - DDIM: **Denoising Diffusion Implicit Models**. Jiaming Song et al. 2020. [arxiv](https://arxiv.org/abs/2010.02502) [pdf](pdfs/DDIM_Jiaming_Song_et_al_2010.02502.pdf)
 - OpenAI: **Diffusion Models Beat GANs on Image Synthesis**. Prafulla Dhariwal et al. 2021. [arxiv](https://arxiv.org/abs/2105.05233) [pdf](pdfs/OpenAI_Prafulla_Dhariwal_et_al_2105.05233.pdf)
 - ClassifierFreeDG: **Classifier-Free Diffusion Guidance**. Jonathan Ho et al. 2022. [arxiv](https://arxiv.org/abs/2207.12598) [pdf](pdfs/ClassifierFreeDG_Jonathan_Ho_et_al_2207.12598.pdf)
