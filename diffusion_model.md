@@ -14,10 +14,11 @@
 > 2. 经典论文推荐：https://zhuanlan.zhihu.com/p/595866176
 
 - DDPM: **Denoising Diffusion Probabilistic Models**. Jonathan Ho et al. 2020. [arxiv](https://arxiv.org/abs/2006.11239) [pdf](pdfs/DDPM_Jonathan_Ho_et_al_2006.11239.pdf)
-  - https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php #Diffusion Model 原理剖析
-  - https://kexue.fm/archives/9119
-  - https://zhuanlan.zhihu.com/p/565901160
-  - https://arxiv.org/pdf/2208.11970
+  - [Machine Learning 2023 Spring - Hung-yi Lee (李宏毅)](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php) #Diffusion Model 原理剖析
+  - [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/pdf/2208.11970)
+  - [生成扩散模型漫谈（一）：DDPM = 拆楼 + 建楼 - 科学空间|Scientific Spaces ](https://kexue.fm/archives/9119?sharesource=weibo)
+  - [一文解释 Diffusion Model (一) DDPM 理论推导 - 撒旦-cc的文章 - 知乎](https://zhuanlan.zhihu.com/p/565901160)
+  
 - DDIM: **Denoising Diffusion Implicit Models**. Jiaming Song et al. 2020. [arxiv](https://arxiv.org/abs/2010.02502) [pdf](pdfs/DDIM_Jiaming_Song_et_al_2010.02502.pdf)
 - OpenAI: **Diffusion Models Beat GANs on Image Synthesis**. Prafulla Dhariwal et al. 2021. [arxiv](https://arxiv.org/abs/2105.05233) [pdf](pdfs/OpenAI_Prafulla_Dhariwal_et_al_2105.05233.pdf)
 - ClassifierFreeDG: **Classifier-Free Diffusion Guidance**. Jonathan Ho et al. 2022. [arxiv](https://arxiv.org/abs/2207.12598) [pdf](pdfs/ClassifierFreeDG_Jonathan_Ho_et_al_2207.12598.pdf)
