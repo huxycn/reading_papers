@@ -10,3 +10,19 @@
 - DiT: **Scalable Diffusion Models with Transformers**. William Peebles et al. 2022. [arxiv](https://arxiv.org/abs/2212.09748) [pdf](pdfs/DiT_William_Peebles_et_al_2212.09748.pdf)
 
 - SiT: **SiT: Exploring Flow and Diffusion-based Generative Models with Scalable  Interpolant Transformers**. Nanye Ma et al. 2024. [arxiv](https://arxiv.org/abs/2401.08740) [pdf](pdfs/SiT_Nanye_Ma_et_al_2401.08740.pdf)
+
+> 2. 经典论文推荐：https://zhuanlan.zhihu.com/p/595866176
+
+- DDPM: **Denoising Diffusion Probabilistic Models**. Jonathan Ho et al. 2020. [arxiv](https://arxiv.org/abs/2006.11239) [pdf](pdfs/DDPM_Jonathan_Ho_et_al_2006.11239.pdf)
+  - https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php #Diffusion Model 原理剖析
+  - https://kexue.fm/archives/9119
+  - https://zhuanlan.zhihu.com/p/565901160
+- DDIM: **Denoising Diffusion Implicit Models**. Jiaming Song et al. 2020. [arxiv](https://arxiv.org/abs/2010.02502) [pdf](pdfs/DDIM_Jiaming_Song_et_al_2010.02502.pdf)
+- OpenAI: **Diffusion Models Beat GANs on Image Synthesis**. Prafulla Dhariwal et al. 2021. [arxiv](https://arxiv.org/abs/2105.05233) [pdf](pdfs/OpenAI_Prafulla_Dhariwal_et_al_2105.05233.pdf)
+- ClassifierFreeDG: **Classifier-Free Diffusion Guidance**. Jonathan Ho et al. 2022. [arxiv](https://arxiv.org/abs/2207.12598) [pdf](pdfs/ClassifierFreeDG_Jonathan_Ho_et_al_2207.12598.pdf)
+- GLIDE: **GLIDE: Towards Photorealistic Image Generation and Editing with  Text-Guided Diffusion Models**. Alex Nichol et al. 2021. [arxiv](https://arxiv.org/abs/2112.10741) [pdf](pdfs/GLIDE_Alex_Nichol_et_al_2112.10741.pdf)
+- StableDiffusion: **High-Resolution Image Synthesis with Latent Diffusion Models**. Robin Rombach et al. 2021. [arxiv](https://arxiv.org/abs/2112.10752) [pdf](pdfs/StableDiffusion_Robin_Rombach_et_al_2112.10752.pdf)
+- DiT: **Scalable Diffusion Models with Transformers**. William Peebles et al. 2022. [arxiv](https://arxiv.org/abs/2212.09748) [pdf](pdfs/DiT_William_Peebles_et_al_2212.09748.pdf)
+- ControlNet: **Adding Conditional Control to Text-to-Image Diffusion Models**. Lvmin Zhang et al. 2023. [arxiv](https://arxiv.org/abs/2302.05543) [pdf](pdfs/ControlNet_Lvmin_Zhang_et_al_2302.05543.pdf)
+- LoRA: **LoRA: Low-Rank Adaptation of Large Language Models**. Edward J. Hu et al. 2021. [arxiv](https://arxiv.org/abs/2106.09685) [pdf](pdfs/LoRA_Edward_J._Hu_et_al_2106.09685.pdf)
+
