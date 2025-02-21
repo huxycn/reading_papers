@@ -1,7 +1,7 @@
+> 1. 最新工作
+- HeKaiming: {{https://arxiv.org/abs/2406.11838}}
 
-> 1. https://huggingface.co/blog/annotated-diffusion
-
-
+> 2. https://huggingface.co/blog/annotated-diffusion
 
 - GAN: **Generative Adversarial Nets**. Ian J. Goodfellow et al. 2014. [arxiv](https://arxiv.org/abs/1406.2661) [pdf](pdfs/GAN_Ian_J._Goodfellow_et_al_1406.2661.pdf)
 
